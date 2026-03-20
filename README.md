@@ -14,6 +14,9 @@ Here you can find all the certifications and achievements I have earned.
 - **Skills:** React JS, Web Development  
 - **Description:** Successfully completed a 6-week internship focused on React JS and modern web development practices.
 
+<details>
+<summary>👀 View Certificate</summary>
+
 <p align="center">
   <img src="./certificates/react-internship.jpg" width="700"/>
 </p>
