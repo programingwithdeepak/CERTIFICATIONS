@@ -7,16 +7,17 @@ Here you can find all the certifications and achievements I have earned.
 
 ## 📜 Certificates
 
-### 🧘 Har Ghar Dhyan Session
-- **Issued by:** Ministry of Culture, Government of India  
-- **Organized by:** The Art of Living  
-- **Type:** Certificate of Participation  
-- **Description:** Participated in a national meditation initiative promoting mental wellness.
+### 💻 Web Development Internship (React JS)
+- **Issued by:** CETPA Infotech Pvt. Ltd.
+- **Duration:** 6 Weeks  
+- **College:** IMS Engineering College  
+- **Skills:** React JS, Web Development  
+- **Description:** Successfully completed a 6-week internship focused on React JS and modern web development practices.
 
 <details>
 <summary>👀 View Certificate</summary>
 
-![Har Ghar Dhyan Certificate](./certificates/har-ghar-dhyan.jpg)
+![React Internship Certificate](./certificates/react-internship.jpg)
 
 </details>
 
