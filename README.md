@@ -51,7 +51,8 @@ Here you can find all the certifications and achievements I have earned.
 <summary>👀 View Certificate</summary>
 
 <p align="center">
-  [📄 Open Certificate](./certificates/Android.pdf)
+  <img src="[📄 Open Certificate](./certificates/Android.pdf)" width="700"/>
+  
 </p>
 
 </details>
