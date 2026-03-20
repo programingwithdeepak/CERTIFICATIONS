@@ -51,7 +51,7 @@ Here you can find all the certifications and achievements I have earned.
 <summary>👀 View Certificate</summary>
 
 <p align="center">
-  <img src="certificates/Android.pdf" width="700"/>
+  [📄 Open Certificate](./certificates/Android.pdf)
 </p>
 
 </details>
@@ -189,4 +189,3 @@ Here you can find all the certifications and achievements I have earned.
 ## 👨‍💻 About Me
 - 🎓 B.Tech Student (IMS Engineering College, Ghaziabad)
 - 💻 Full Stack Developer
-- 🔐 Interested in Cybersecurity & AI
