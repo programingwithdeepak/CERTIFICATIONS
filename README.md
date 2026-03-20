@@ -1,7 +1,6 @@
 # 🏆 My Certificates
 
-Welcome to my certificates collection!  
-Here you can find all the certifications and achievements I have earned.
+Welcome to my certificates collection!
 
 ---
 
@@ -13,20 +12,16 @@ Here you can find all the certifications and achievements I have earned.
 - **Type:** Certificate of Participation  
 - **Description:** Participated in a national meditation initiative promoting mental wellness.
 
-📄 [View Certificate](./certificates/har-ghar-dhyan.pdf)
+<details>
+<summary>👀 View Certificate</summary>
+
+![Har Ghar Dhyan Certificate](./certificates/har-ghar-dhyan.jpg)
+
+</details>
 
 ---
 
-### 📌 Add More Certificates Like This
-
-### 🎓 Certificate Name
-- **Issued by:** Organization Name  
-- **Date:** Month Year  
-- **Skills:** Example (React, Python, AI, etc.)
-- **Description:** Short description of what you learned.
-
-📄 [View Certificate](./certificates/file-name.pdf)
-
----
-
-## 📂 Folder Structure
+## 👨‍💻 About Me
+- 🎓 B.Tech Student (IMS Engineering College, Ghaziabad)
+- 💻 Full Stack Developer
+- 🔐 Interested in Cybersecurity & AI
