@@ -35,7 +35,7 @@ Here you can find all the certifications and achievements I have earned.
 <summary>👀 View Certificate</summary>
 
 <p align="center">
-  <img src="certificates/har-ghar-dhyan.jpeg" width="700"/>
+  <img src="certificates/har-ghar-dhyan.jpg" width="700"/>
 </p>
 
 </details>
