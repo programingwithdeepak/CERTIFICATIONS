@@ -1,6 +1,7 @@
 # 🏆 My Certificates
 
-Welcome to my certificates collection!
+Welcome to my certificates collection!  
+Here you can find all the certifications and achievements I have earned.
 
 ---
 
