@@ -35,7 +35,7 @@ Here you can find all the certifications and achievements I have earned.
 <summary>👀 View Certificate</summary>
 
 <p align="center">
-  <img src="certificates/har-ghar-dhyan.jpg" width="700"/>
+  <img src="certificates/har-ghar-dhyan.jpeg" width="700"/>
 </p>
 
 </details>
@@ -43,7 +43,7 @@ Here you can find all the certifications and achievements I have earned.
 ---
 
 ### 📱 Android Development
-- **Issued by:** Certification Authority  
+- **Issued by:** RINEX  
 - **Skills:** Android, Mobile App Development  
 - **Description:** Learned fundamentals of Android app development including UI design, activities, and application lifecycle.
 
@@ -51,7 +51,7 @@ Here you can find all the certifications and achievements I have earned.
 <summary>👀 View Certificate</summary>
 
 <p align="center">
-  <img src="certificates/android.jpg" width="700"/>
+  <img src="certificates/Android.pdf" width="700"/>
 </p>
 
 </details>
@@ -59,7 +59,7 @@ Here you can find all the certifications and achievements I have earned.
 ---
 
 ### 🛠️ Backend Development
-- **Issued by:** Certification Authority  
+- **Issued by:** Physics wallah  
 - **Skills:** Node.js, APIs, Databases  
 - **Description:** Gained knowledge of backend systems, REST APIs, server-side logic, and database integration.
 
@@ -67,7 +67,7 @@ Here you can find all the certifications and achievements I have earned.
 <summary>👀 View Certificate</summary>
 
 <p align="center">
-  <img src="certificates/backend.jpg" width="700"/>
+  <img src="certificates/Backend.pdf" width="700"/>
 </p>
 
 </details>
@@ -83,7 +83,7 @@ Here you can find all the certifications and achievements I have earned.
 <summary>👀 View Certificate</summary>
 
 <p align="center">
-  <img src="certificates/be10x.jpg" width="700"/>
+  <img src="certificates/Be10x.pdf" width="700"/>
 </p>
 
 </details>
@@ -91,7 +91,7 @@ Here you can find all the certifications and achievements I have earned.
 ---
 
 ### 🌐 HTML & CSS
-- **Issued by:** Certification Authority  
+- **Issued by:** EDUCBA  
 - **Skills:** HTML, CSS, Responsive Design  
 - **Description:** Built strong foundation in web design, layouts, styling, and responsive user interfaces.
 
@@ -99,7 +99,7 @@ Here you can find all the certifications and achievements I have earned.
 <summary>👀 View Certificate</summary>
 
 <p align="center">
-  <img src="certificates/html-css.jpg" width="700"/>
+  <img src="certificates/HTML&CSS.pdf" width="700"/>
 </p>
 
 </details>
@@ -107,7 +107,7 @@ Here you can find all the certifications and achievements I have earned.
 ---
 
 ### ☕ Java Programming
-- **Issued by:** Certification Authority  
+- **Issued by:** C#corner  
 - **Skills:** Java, OOP  
 - **Description:** Learned core Java programming concepts including OOP, exception handling, and application logic.
 
@@ -115,7 +115,7 @@ Here you can find all the certifications and achievements I have earned.
 <summary>👀 View Certificate</summary>
 
 <p align="center">
-  <img src="certificates/java.jpg" width="700"/>
+  <img src="certificates/java.pdf" width="700"/>
 </p>
 
 </details>
@@ -123,7 +123,7 @@ Here you can find all the certifications and achievements I have earned.
 ---
 
 ### 🧠 Java & DSA
-- **Issued by:** Certification Authority  
+- **Issued by:** Physics wallah  
 - **Skills:** Java, Data Structures, Algorithms  
 - **Description:** Strengthened problem-solving skills using data structures and algorithms with Java.
 
@@ -131,7 +131,7 @@ Here you can find all the certifications and achievements I have earned.
 <summary>👀 View Certificate</summary>
 
 <p align="center">
-  <img src="certificates/java-dsa.png" width="700"/>
+  <img src="certificates/java&DSA.png" width="700"/>
 </p>
 
 </details>
@@ -139,7 +139,7 @@ Here you can find all the certifications and achievements I have earned.
 ---
 
 ### ♻️ Renewable Energy
-- **Issued by:** Certification Authority  
+- **Issued by:** udemy  
 - **Skills:** Sustainability, Energy Systems  
 - **Description:** Gained knowledge of renewable energy sources and sustainable development practices.
 
@@ -147,7 +147,7 @@ Here you can find all the certifications and achievements I have earned.
 <summary>👀 View Certificate</summary>
 
 <p align="center">
-  <img src="certificates/renewable-energy.jpg" width="700"/>
+  <img src="certificates/Renewable Energy.pdf" width="700"/>
 </p>
 
 </details>
@@ -155,7 +155,7 @@ Here you can find all the certifications and achievements I have earned.
 ---
 
 ### 💼 Internship Letter
-- **Issued by:** Organization  
+- **Issued by:** SO infotech (P) LTD  
 - **Skills:** Professional Experience  
 - **Description:** Received official internship completion letter recognizing practical experience and contribution.
 
