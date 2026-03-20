@@ -25,6 +25,167 @@ Here you can find all the certifications and achievements I have earned.
 
 ---
 
+### 🧘 Har Ghar Dhyan Session
+- **Issued by:** Ministry of Culture, Government of India  
+- **Organized by:** The Art of Living  
+- **Skills:** Meditation, Mindfulness  
+- **Description:** Participated in a nationwide meditation initiative to promote mental wellness and mindfulness.
+
+<details>
+<summary>👀 View Certificate</summary>
+
+<p align="center">
+  <img src="certificates/har-ghar-dhyan.jpg" width="700"/>
+</p>
+
+</details>
+
+---
+
+### 📱 Android Development
+- **Issued by:** Certification Authority  
+- **Skills:** Android, Mobile App Development  
+- **Description:** Learned fundamentals of Android app development including UI design, activities, and application lifecycle.
+
+<details>
+<summary>👀 View Certificate</summary>
+
+<p align="center">
+  <img src="certificates/android.jpg" width="700"/>
+</p>
+
+</details>
+
+---
+
+### 🛠️ Backend Development
+- **Issued by:** Certification Authority  
+- **Skills:** Node.js, APIs, Databases  
+- **Description:** Gained knowledge of backend systems, REST APIs, server-side logic, and database integration.
+
+<details>
+<summary>👀 View Certificate</summary>
+
+<p align="center">
+  <img src="certificates/backend.jpg" width="700"/>
+</p>
+
+</details>
+
+---
+
+### 🚀 BE10X Program
+- **Issued by:** BE10X  
+- **Skills:** Productivity, Tech Tools  
+- **Description:** Completed BE10X program focusing on modern tools, productivity enhancement, and industry skills.
+
+<details>
+<summary>👀 View Certificate</summary>
+
+<p align="center">
+  <img src="certificates/be10x.jpg" width="700"/>
+</p>
+
+</details>
+
+---
+
+### 🌐 HTML & CSS
+- **Issued by:** Certification Authority  
+- **Skills:** HTML, CSS, Responsive Design  
+- **Description:** Built strong foundation in web design, layouts, styling, and responsive user interfaces.
+
+<details>
+<summary>👀 View Certificate</summary>
+
+<p align="center">
+  <img src="certificates/html-css.jpg" width="700"/>
+</p>
+
+</details>
+
+---
+
+### ☕ Java Programming
+- **Issued by:** Certification Authority  
+- **Skills:** Java, OOP  
+- **Description:** Learned core Java programming concepts including OOP, exception handling, and application logic.
+
+<details>
+<summary>👀 View Certificate</summary>
+
+<p align="center">
+  <img src="certificates/java.jpg" width="700"/>
+</p>
+
+</details>
+
+---
+
+### 🧠 Java & DSA
+- **Issued by:** Certification Authority  
+- **Skills:** Java, Data Structures, Algorithms  
+- **Description:** Strengthened problem-solving skills using data structures and algorithms with Java.
+
+<details>
+<summary>👀 View Certificate</summary>
+
+<p align="center">
+  <img src="certificates/java-dsa.png" width="700"/>
+</p>
+
+</details>
+
+---
+
+### ♻️ Renewable Energy
+- **Issued by:** Certification Authority  
+- **Skills:** Sustainability, Energy Systems  
+- **Description:** Gained knowledge of renewable energy sources and sustainable development practices.
+
+<details>
+<summary>👀 View Certificate</summary>
+
+<p align="center">
+  <img src="certificates/renewable-energy.jpg" width="700"/>
+</p>
+
+</details>
+
+---
+
+### 💼 Internship Letter
+- **Issued by:** Organization  
+- **Skills:** Professional Experience  
+- **Description:** Received official internship completion letter recognizing practical experience and contribution.
+
+<details>
+<summary>👀 View Certificate</summary>
+
+<p align="center">
+  <img src="certificates/internship-letter.jpg" width="700"/>
+</p>
+
+</details>
+
+---
+
+### 🏢 OctaNet Services Pvt. Ltd.
+- **Issued by:** OctaNet Services Pvt. Ltd.  
+- **Skills:** Industry Training  
+- **Description:** Completed certification/internship demonstrating practical exposure to real-world development tasks.
+
+<details>
+<summary>👀 View Certificate</summary>
+
+<p align="center">
+  <img src="certificates/octanet.jpg" width="700"/>
+</p>
+
+</details>
+
+---
+
 ## 👨‍💻 About Me
 - 🎓 B.Tech Student (IMS Engineering College, Ghaziabad)
 - 💻 Full Stack Developer
